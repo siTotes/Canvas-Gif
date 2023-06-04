@@ -12,7 +12,7 @@
 	"dependencies": {
 		"canvas": "^2.8.0",
 		"decode-gif": "^1.0.1",
-		"gif-encoder-2": "github:AlipBot/gif-encoder-2_transparent",
+		"gif-encoder-2": "github:siTotes/gif-encoder-2/tree/master",
 		"gm": "^1.23.1"
 	},
 	"devDependencies": {
